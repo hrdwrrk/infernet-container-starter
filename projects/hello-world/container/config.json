@@ -6,7 +6,7 @@
   "chain": {
     "enabled": true,
     "trail_head_blocks": 0,
-    "rpc_url": "https://rpc.ankr.com/base/44fdfc04d0cd2ad5d8922d3ea028de7508b64e866079148d0d70c3aa8a91ad79",
+    "rpc_url": "https://base.llamarpc.com",
     "registry_address": "0x3B1554f346DFe5c482Bb4BA31b880c1C18412170",
     "wallet": {
       "max_gas_limit": 5000000,
